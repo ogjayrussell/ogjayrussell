@@ -13,9 +13,9 @@ I'm a Graduate of Finance and Medical Science with additional qualifications in 
 
 ## 💼 Professional Experience
 
-- [Job Title], [Company Name] (Month Year - Present/End Month Year)
-  - Brief description of your role and achievements.
-- [Previous Job Title], [Previous Company Name] (Month Year - Month Year)
+- Finance Internship, Johnson & Johnson – MedTech (2023)
+  - Project leads for projects involved in Finance and 
+- Temp, [Previous Company Name] (Month Year - Month Year)
   - Brief description of your role and achievements.
 
 ## 🛠️ Skills
@@ -24,20 +24,14 @@ I'm a Graduate of Finance and Medical Science with additional qualifications in 
 - **Frameworks/Tools:** [Frameworks and Tools]
 - **Soft Skills:** [List of Soft Skills]
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 📫 How to Reach Me
 
-- **Email:** [Your Email Address]
-- **LinkedIn:** [LinkedIn Profile](Your LinkedIn URL)
-- **Twitter:** [@YourTwitterHandle](Your Twitter URL)
-- **Portfolio:** [Your Portfolio Website](Your Portfolio URL)
+- **Email:** jay.a.russell@outlook.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jay-a-russell/)
 
 ## 🎉 Interests
 
-Outside of my professional life, I enjoy [Your Hobbies/Interests].
+Outside of my professional life, I enjoy: Music Production; Guitar; Piano; Fitness; Swimming; Padel Tennis.
 
 ## ✨ Fun Fact
 
