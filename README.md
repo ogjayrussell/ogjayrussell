@@ -17,7 +17,7 @@ I'm a Graduate of Business (Finance) and Medical Science with additional qualifi
   - Time spent mostly as a project lead to coordinate improvements in core CapEx processes. Ad hoc analysis on medical instrument data. 
 - Temp, Avant (2021)
   - Curated unique findings which gauged the interest of the underwriting team.
-- Operations Assistant, Hyper Anna (2021)
+- Operations Assistant, Hyper Anna (2019)
   - Assigned to a diverse range of tasks that revolved around timely demands; from testing prototypes of the product to searching for sales opportunities.
 
 ## 🛠️ Skills
