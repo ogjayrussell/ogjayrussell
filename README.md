@@ -13,10 +13,12 @@ I'm a Graduate of Finance and Medical Science with additional qualifications in 
 
 ## 💼 Professional Experience
 
-- Finance Internship, Johnson & Johnson – MedTech (2023)
-  - Project leads for projects involved in Finance and 
-- Temp, [Previous Company Name] (Month Year - Month Year)
-  - Brief description of your role and achievements.
+- Finance Internship, Johnson & Johnson MedTech (2023)
+  - Time spent mostly as a project lead to coordinate improvements in core CapEx processes. Ad hoc analysis on medical instrument data. 
+- Temp, Avant (2021)
+  - Curated unique findings which gauged the interest of the underwriting team.
+- Operations Assistant, Hyper Anna (2021)
+  - Assigned to a diverse range of tasks that revolved around timely demands; from testing prototypes of the product to searching for sales opportunities.
 
 ## 🛠️ Skills
 
@@ -27,7 +29,7 @@ I'm a Graduate of Finance and Medical Science with additional qualifications in 
 ## 📫 How to Reach Me
 
 - **Email:** jay.a.russell@outlook.com
-- **LinkedIn:** [Jay Russell Linkedin](https://www.linkedin.com/in/jay-a-russell/)
+- **LinkedIn:** [Jay Russell](https://www.linkedin.com/in/jay-a-russell/)
 
 ## 🎉 Interests
 
