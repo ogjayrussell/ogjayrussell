@@ -27,7 +27,7 @@ I'm a Graduate of Finance and Medical Science with additional qualifications in 
 ## 📫 How to Reach Me
 
 - **Email:** jay.a.russell@outlook.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jay-a-russell/)
+- **LinkedIn:** [Jay Russell Linkedin](https://www.linkedin.com/in/jay-a-russell/)
 
 ## 🎉 Interests
 
