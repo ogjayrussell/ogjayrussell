@@ -2,14 +2,14 @@
 
 ## 👋 About Me
 
-I'm a Graduate of Finance and Medical Science with additional qualifications in Data Science. I specialize in Healthcare and am currently engrossed in the newest developments and applications of AI.
+I'm a Graduate of Business (Finance) and Medical Science with additional qualifications in Data Science. I specialize in Healthcare and am currently engrossed in the newest developments and applications of AI.
 
 ## 🌟 Highlights
 
-- 🚀 Work experience with Johnson & Johnson, Avant and Hyper Anna
-- 🎓 Graduated from University of Technology Sydney (UTS) with degrees in Business (Finance) and Medical Science. Further certififications in Data Science through a course with General Assembly.
+- 🚀 Work experience with Johnson & Johnson, Avant and Hyper Anna.
+- 🎓 Graduated from University of Technology Sydney (UTS). Further certififications in Data Science through an intensive course with General Assembly.
 - 🌱 I’m currently learning on Autogen applications from Microsoft.
-- 💬 Ask me about the newest developments in AI.
+- 💬 Ask me about the latest philosophies behind AI.
 
 ## 💼 Professional Experience
 
@@ -34,5 +34,5 @@ I'm a Graduate of Finance and Medical Science with additional qualifications in 
 
 ## 🎉 Interests
 
-Outside of my professional life, I enjoy: Music Production; Ocean Swimming; Toast Masters; Gym; Padel Tennis; Cooking.
+Outside of my professional life, I enjoy: Music Production; Ocean Swimming; Toast Masters; Gym; Padel Tennis; Cooking; Psychology.
 
