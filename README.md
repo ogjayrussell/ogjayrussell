@@ -6,7 +6,7 @@ I'm a Graduate of Finance and Medical Science with additional qualifications in 
 
 ## 🌟 Highlights
 
-- 🚀 I’ve worked closely within an AI startup, a reputable healthcare giant and insurance.
+- 🚀 Work experience with Johnson & Johnson, Avant and Hyper Anna
 - 🎓 Graduated from University of Technology Sydney (UTS) with degrees in Business (Finance) and Medical Science. Further certififications in Data Science through a course with General Assembly.
 - 🌱 I’m currently learning on Autogen applications from Microsoft.
 - 💬 Ask me about the newest developments in AI.
@@ -22,9 +22,10 @@ I'm a Graduate of Finance and Medical Science with additional qualifications in 
 
 ## 🛠️ Skills
 
-- **Languages:** [Programming Languages You're Proficient In]
+- **Languages|** Python, SQL, API, JSON, HTML
 - **Frameworks/Tools:** [Frameworks and Tools]
-- **Soft Skills:** [List of Soft Skills]
+- **Model Optimization + Interpretation** Statistical Modeling, Regression Models, Classification Models, Ensemble Methods 
+- **Statistics** Statistical Distributions, Bayesian Analysis, p-values, Hypothesis Testing, Bayes Theorem
 
 ## 📫 How to Reach Me
 
@@ -33,11 +34,7 @@ I'm a Graduate of Finance and Medical Science with additional qualifications in 
 
 ## 🎉 Interests
 
-Outside of my professional life, I enjoy: Music Production; Guitar; Piano; Fitness; Swimming; Padel Tennis.
-
-## ✨ Fun Fact
-
-[Interesting or Fun Fact About You]
+Outside of my professional life, I enjoy: Music Production; Ocean Swimming; Gym; Padel Tennis; Cooking.
 
 ---
 
