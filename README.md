@@ -22,10 +22,10 @@ I'm a Graduate of Finance and Medical Science with additional qualifications in 
 
 ## 🛠️ Skills
 
-- **Languages|** Python, SQL, API, JSON, HTML
-- **Frameworks/Tools:** [Frameworks and Tools]
-- **Model Optimization + Interpretation** Statistical Modeling, Regression Models, Classification Models, Ensemble Methods 
-- **Statistics** Statistical Distributions, Bayesian Analysis, p-values, Hypothesis Testing, Bayes Theorem
+- **Languages |** Python, SQL, API, JSON, HTML
+- **Frameworks/Tools |** [Frameworks and Tools]
+- **Model Optimization + Interpretation |** Statistical Modeling, Regression Models, Classification Models, Ensemble Methods 
+- **Statistics |** Statistical Distributions, Bayesian Analysis, p-values, Hypothesis Testing, Bayes Theorem
 
 ## 📫 How to Reach Me
 
@@ -34,9 +34,5 @@ I'm a Graduate of Finance and Medical Science with additional qualifications in 
 
 ## 🎉 Interests
 
-Outside of my professional life, I enjoy: Music Production; Ocean Swimming; Gym; Padel Tennis; Cooking.
-
----
-
-*“[A Quote that Inspires You or Reflects Your Beliefs/Philosophy]”* - [Author of the Quote]
+Outside of my professional life, I enjoy: Music Production; Ocean Swimming; Toast Masters; Gym; Padel Tennis; Cooking.
 
