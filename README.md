@@ -8,7 +8,7 @@ I'm a Graduate of Business (Finance) and Medical Science with additional qualifi
 
 - 🚀 Work experience with Johnson & Johnson, Avant and Hyper Anna.
 - 🎓 Graduated from University of Technology Sydney (UTS). Further certififications in Data Science through an intensive course with General Assembly.
-- 🌱 I’m currently learning on Autogen applications from Microsoft.
+- 🌱 I’m currently learning about Autogen applications from Microsoft.
 - 💬 Ask me about the latest philosophies behind AI.
 
 ## 💼 Professional Experience
