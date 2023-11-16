@@ -34,5 +34,5 @@ I'm a Graduate of Business (Finance) and Medical Science with additional qualifi
 
 ## 🎉 Interests
 
-Outside of my professional life, I enjoy: Music Production; Ocean Swimming; Toast Masters; Gym; Padel Tennis; Cooking; Psychology.
+Music Production; Ocean Swimming; Toast Masters; Gym; Padel Tennis; Cooking; Psychology.
 
