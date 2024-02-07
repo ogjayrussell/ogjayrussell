@@ -23,8 +23,7 @@ I'm a Graduate of Business (Finance) and Medical Science with additional qualifi
 ## 🛠️ Skills
 
 - **Languages |** Python, SQL, API, JSON, HTML
-- **Frameworks/Tools |** [Frameworks and Tools]
-- **Model Optimization + Interpretation |** Statistical Modeling, Regression Models, Classification Models, Ensemble Methods 
+- **Model Optimization + Interpretation |** Deep Learning, Statistical Modeling, Regression Models, Classification Models, Ensemble Methods 
 - **Statistics |** Statistical Distributions, Bayesian Analysis, p-values, Hypothesis Testing, Bayes Theorem
 
 ## 📫 How to Reach Me
