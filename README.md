@@ -6,10 +6,10 @@ I'm a Graduate of Business (Finance) and Medical Science with additional qualifi
 
 ## 🌟 Highlights
 
-- 🚀 Work experience with Johnson & Johnson, Avant and Hyper Anna.
+- 🚀 Work experience with Johnson & Johnson, Avant and Hyper Anna (Alteryx AutoInsights).
 - 🎓 Graduated from University of Technology Sydney (UTS). Further certififications in Data Science through an intensive course with General Assembly.
-- 🌱 I’m currently learning about Active Inference.
-- 💬 Ask me about the latest philosophies behind AI.
+- 🌱 I’m currently learning about Parameter Efficient Fine-Tuning (PEFT) methods.
+- 💬 Ask me about the latest prospects of AI.
 
 ## 💼 Professional Experience
 
